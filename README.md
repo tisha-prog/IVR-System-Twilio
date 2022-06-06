@@ -3,7 +3,7 @@ A prototype of Interactive Voice Response System (IVR), for vaccination-appointm
 1. When the user Confirms the appointment then the status changes from Pending to Confirmed in the Databse.
 2. When the input is to Cancel the appointment then the status changes from Pending to Cancelled in the Airtable , Database.
 3. When the input is Rescheduling, then the status remains Pending and list of available slots is being provided to the user to choose from.
-
+![patient outreach app architecture](https://user-images.githubusercontent.com/60807484/172104262-db3e5dce-ed29-4acf-b321-38f31e24b4f3.png)
 
 ## Pre-requisites
 TWILIO
